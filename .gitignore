@@ -1,0 +1,6 @@
+replica_folder/*
+replica_folder_old/*
+source_folder/*
+venv/*
+*.txt
+folder_sync/__pycache__/*
